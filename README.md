@@ -32,9 +32,9 @@ pip install pypiwin32 pycryptodome
    ```
 3. Download and run the script:
 
-   bash
-   python main.py
-   
+  ``` bash
+   python3 main.py
+   ```
 
 > **Note:** The script looks for Discord tokens in the local data of supported applications and browsers. **Do not use this script without the explicit consent of the affected users.**
 
