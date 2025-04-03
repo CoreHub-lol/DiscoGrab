@@ -19,9 +19,9 @@ This Python script extracts Discord tokens and other user information from vario
 - Python 3.x
 - The following Python libraries must be installed:
 
-`bash
+```bash
 pip install pypiwin32 pycryptodome
-
+```
 
 ## Usage
 
