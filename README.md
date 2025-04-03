@@ -30,7 +30,9 @@ pip install pypiwin32 pycryptodome
    ```bash
    pip install pypiwin32 pycryptodome
    ```
-3. Download and run the script:
+3. Download the script
+4. Change in line 207 the webhook placeholder to your Discord webhook
+5. Run the code
 
   ``` bash
    python3 main.py
