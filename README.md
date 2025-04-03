@@ -1,4 +1,4 @@
-`markdown
+
 # Discord Token Grabber
 
 ![Security Warning](https://img.shields.io/badge/Warning-Illegal%20Use%20Prohibited-red)
